@@ -85,6 +85,6 @@ h1{
     line-height: 1.2;
 }
 
-#My Inspiration:hover{
-    transform: scale(9.0)
+#MyI:hover{
+    transform: scale(0.9);
 }
